@@ -1,1 +1,3 @@
-# CO3_Camera_Calibration
+# CO3 Camera Calibration
+
+Hay una camara situada en el techo del laboratorio, en estes carpetas podemos encontrar la calibración realizada con la herramienta cameraCalibrator de Matlab, que permite la facil extracción de los parametros de la camera a través de una aplicación visual. Enlaces de referencia: https://es.mathworks.com/help/vision/ref/cameracalibrator-app.html y https://es.mathworks.com/help/vision/ug/using-the-single-camera-calibrator-app.html. Existen dos versiones de la calibración con la resolución 640 y 1080.
